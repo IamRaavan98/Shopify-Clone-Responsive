@@ -21,12 +21,12 @@
 
 ![Screen-shots](images/Screenshot%20(186).png)
 
+
+
+
+## **FULL WEB-PAGE SCREEN-SHOT**
+
 ![Screen-shots](images/screenshot.png)
-
-
-**FULL WEB-PAGE SCREEN-SHOT
-
-![Screen-shots](images/FullWebPage.png)
 
 
 # My other Websites
