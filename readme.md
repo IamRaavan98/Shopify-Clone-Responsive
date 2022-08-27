@@ -4,8 +4,8 @@
 ### By making this project i learnt lot about tailwind and dynamic nature of css.
 
 ### Time Required Around **20hrs**
-
-## **[Here Deployed Link of Project](https://thriving-sopapillas-143430.netlify.app "Shopify")**
+                                      
+## **[Here Deployed Link of Project](https://shopify-thriving-sopapillas-143430.netlify.app/)**
 
 ### Here **Screen-shots** of my project
 
